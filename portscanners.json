@@ -39,3 +39,6 @@
 {"ip4":"184.105.139.67","hostname":" scan-01.shadowserver.org","ip6":""}
 {"ip4":"184.105.247.194","hostname":"scan-13.shadowserver.org","ip6":""}
 {"ip4":"199.45.155.87","hostname":"scanner-204.hk2.censys-scanner.com","ip6":""}
+{"ip4":"162.142.125.198","hostname":"scanner-202.ch1.censys-scanner.com","ip6":""}
+{"ip4":"199.45.155.65","hostname":"scanner-202.hk2.censys-scanner.com","ip6":""}
+{"ip4":"199.45.155.107","hostname":"scanner-206.hk2.censys-scanner.com","ip6":""}
