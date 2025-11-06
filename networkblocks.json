@@ -1,29 +1,29 @@
-{"cidr":"45.148.10.0/24","company":"Techoff SRV Limited","country":"Netherlands","reason":"Scanning Bot"},
-{"cidr":"45.173.24.0/24","company":"","country":"Poland","reason":"Scanning Bot"},
-{"cidr":"45.173.25.0/24","company":"","country":"Poland","reason":"Scanning Bot"},
-{"cidr":"45.173.26.0/24","company":"","country":"Poland","reason":"Scanning Bot"},
-{"cidr":"45.173.27.0/24","company":"","country":"Poland","reason":"Scanning Bot"},
-{"cidr":"45.187.56.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.187.57.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.187.58.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.187.59.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.191.172.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.191.173.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.191.174.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.191.175.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.225.244.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.225.245.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.225.246.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"45.225.247.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"131.100.72.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"131.100.74.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"131.100.75.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"131.100.73.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.81.20.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.81.21.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.81.22.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.81.23.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.245.36.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.245.37.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.245.38.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"},
-{"cidr":"170.245.39.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"},
+{"cidr":"45.148.10.0/24","company":"Techoff SRV Limited","country":"Netherlands","reason":"Scanning Bot"}
+{"cidr":"45.173.24.0/24","company":"","country":"Poland","reason":"Scanning Bot"}
+{"cidr":"45.173.25.0/24","company":"","country":"Poland","reason":"Scanning Bot"}
+{"cidr":"45.173.26.0/24","company":"","country":"Poland","reason":"Scanning Bot"}
+{"cidr":"45.173.27.0/24","company":"","country":"Poland","reason":"Scanning Bot"}
+{"cidr":"45.187.56.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.187.57.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.187.58.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.187.59.0/24","company":"Bitnet Telecom","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.191.172.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.191.173.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.191.174.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.191.175.0/24","company":"Sirlene Fidelis de Maciel Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.225.244.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.225.245.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.225.246.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"45.225.247.0/24","company":"Up Down Telecom Ltda","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"131.100.72.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"131.100.74.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"131.100.75.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"131.100.73.0/24","company":"NetPontal Provedor de Internet Ltda - ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.81.20.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.81.21.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.81.22.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.81.23.0/24","company":"World Fast Telecomunicacoes ME","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.245.36.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.245.37.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.245.38.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"}
+{"cidr":"170.245.39.0/24","company":"SIC Informatica e Tecnologia Ltda.","country":"Brazil","reason":"Scanning Bot"}
