@@ -38,6 +38,7 @@
 {"ip4":"178.128.242.174","hostname":"portscanner-ams3-02.prod.cyberresilience.io","ip6":""}
 {"ip4":"184.105.139.67","hostname":" scan-01.shadowserver.org","ip6":""}
 {"ip4":"184.105.139.68","hostname":" scan-02.shadowserver.org","ip6":""}
+{"ip4":"184.105.139.76","hostname":" scan-02b.shadowserver.org","ip6":""}
 {"ip4":"184.105.247.194","hostname":"scan-13.shadowserver.org","ip6":""}
 {"ip4":"184.105.247.196","hostname":"scan-15.shadowserver.org","ip6":""}
 {"ip4":"199.45.155.87","hostname":"scanner-204.hk2.censys-scanner.com","ip6":""}
