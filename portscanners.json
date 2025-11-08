@@ -42,7 +42,7 @@
 {"ipv4":"185.247.137.161","hostname":"illuminating.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"185.247.137.168","hostname":"salient.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"185.247.137.170","hostname":"foundational.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
-{"ipv4":"185.247.137.174","hostname":" congenial.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
+{"ipv4":"185.247.137.174","hostname":"congenial.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"185.247.137.180","hostname":"audacious.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"185.247.137.192","hostname":"advisable.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"185.247.137.220","hostname":"capacious.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
@@ -65,7 +65,7 @@
 {"ipv4":"61.129.155.196","hostname":"","ipv6":"","company":"","China":""}
 {"ipv4":"64.227.34.94","hostname":"","ipv6":"","company":"DigitalOcean","country":"United Kingdom"}
 {"ipv4":"64.23.250.240","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States"}
-  {"ipv4":"65.49.1.52","hostname":"scan-55a.shadowserver.org","ipv6":"","company":"","country":""}
+{"ipv4":"65.49.1.52","hostname":"scan-55a.shadowserver.org","ipv6":"","company":"","country":""}
 {"ipv4":"87.236.176.101","hostname":"swift.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"87.236.176.112","hostname":"adroit.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"87.236.176.114","hostname":"lovely.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
@@ -95,3 +95,8 @@
 {"ipv4":"87.236.176.85","hostname":"vivid.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"87.236.176.90","hostname":"attentive.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
 {"ipv4":"87.236.176.91","hostname":"adored.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
+{"ipv4":"162.142.125.44","hostname":"scanner-201.ch1.censys-scanner.com":"","ipv6":"","country":""}
+{"ipv4":"167.248.133.122","hostname":"scanner-26.ch1.censys-scanner.com":"","ipv6":"","country":""}
+{"ipv4":"167.248.133.127","hostname":"scanner-26.ch1.censys-scanner.com":"","ipv6":"","country":""}
+{"ipv4":"187.120.73.60","hostname":"187-120-73-60.pso-fb.mastercabo.com.br":"","ipv6":"","country":""}
+{"ipv4":"45.156.131.12","hostname":"zl-laxd-us-cpp-wk111.internet-census.org":"","ipv6":"","country":""}
