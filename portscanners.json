@@ -1,4 +1,3 @@
-[
 {"ipv4":"104.248.160.235","hostname":"","ipv6":"","company":"DigitalOcean","country":"United Kingdom"},
 {"ipv4":"104.248.243.65","hostname":"","ipv6":"","company":"DigitalOcean","country":"Germany"},
 {"ipv4":"137.184.187.109","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States"},
@@ -96,4 +95,3 @@
 {"ipv4":"87.236.176.85","hostname":"vivid.monitoring.internet-measurement.com","ipv6":"","company":"","country":""},
 {"ipv4":"87.236.176.90","hostname":"attentive.monitoring.internet-measurement.com","ipv6":"","company":"","country":""},
 {"ipv4":"87.236.176.91","hostname":"adored.monitoring.internet-measurement.com","ipv6":"","company":"","country":""}
-]
