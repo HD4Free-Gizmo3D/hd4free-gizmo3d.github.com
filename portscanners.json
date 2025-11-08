@@ -65,6 +65,7 @@
 {"ipv4":"61.129.155.196","hostname":"","ipv6":"","company":"","China":""},
 {"ipv4":"64.227.34.94","hostname":"","ipv6":"","company":"DigitalOcean","country":"United Kingdom"},
 {"ipv4":"64.23.250.240","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States"},
+  {"ipv4":"65.49.1.52","hostname":"scan-55a.shadowserver.org","ipv6":"","company":"","country":""},
 {"ipv4":"87.236.176.101","hostname":"swift.monitoring.internet-measurement.com","ipv6":"","company":"","country":""},
 {"ipv4":"87.236.176.112","hostname":"adroit.monitoring.internet-measurement.com","ipv6":"","company":"","country":""},
 {"ipv4":"87.236.176.114","hostname":"lovely.monitoring.internet-measurement.com","ipv6":"","company":"","country":""},
