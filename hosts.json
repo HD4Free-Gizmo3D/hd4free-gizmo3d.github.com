@@ -208,3 +208,5 @@
 {"ipv4":"94.102.49.155","hostname":"","country":"","reason":""}
 {"ipv4":"95.0.171.42","hostname":"","country":"","reason":"Port 143"}
 {"ipv4":"98.192.114.251","hostname":"","country":"","reason":""}
+{"ipv4":"82.25.108.198","hostname":"","ipv6":"","country":"","reason":"Port 110"}
+{"ipv4":"91.238.181.94","hostname":"","ipv6":"","country":"","reason":"Port 80"}
