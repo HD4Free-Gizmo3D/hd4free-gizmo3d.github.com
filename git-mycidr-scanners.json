@@ -32,6 +32,7 @@
 {"cidr":"64.227.109.89/32","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
 {"cidr":"64.227.110.161/32","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
 {"cidr":"64.227.99.138/32","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
+{"cidr":"65.49.1.0/24","company":"The Shadowserver Foundation, Inc.","asn":"","notes":""}
 {"cidr":"66.132.148.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"66.132.153.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"66.132.159.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
