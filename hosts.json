@@ -86,7 +86,6 @@
 {"ipv4":"172.236.228.224","hostname":"","ipv6":"","country":"United States","reason":"Port 110"}
 {"ipv4":"172.236.228.38","hostname":"72-236-228-38.ip.linodeusercontent.com","ipv6":"","country":"United States","reason":"Port 143"}
 {"ipv4":"172.236.228.39","hostname":"","ipv6":"","country":"","reason":""}
-{"ipv4":"173.254.207.234","hostname":"173.254.207.234.static.quadranet.com","ipv6":"","country":"United States","reason":"Port 25"}
 {"ipv4":"174.138.48.76","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"177.125.134.100","hostname":"","ipv6":"","country":"Brazil","reason":"Port 143"}
 {"ipv4":"177.44.71.125","hostname":"","ipv6":"","country":"","reason":"Port 143"}
@@ -124,6 +123,7 @@
 {"ipv4":"193.112.200.126","hostname":"","ipv6":"","country":"","reason":"Port 110"}
 {"ipv4":"193.233.84.121","hostname":"51202.ip-ptr.tech","ipv6":"","country":"Russia","reason":"Port 443"}
 {"ipv4":"194.165.16.164","hostname":"","ipv6":"","country":"","reason":""}
+{"ipv4":"194.165.16.167","hostname":"","ipv6":"","country":"","reason":"Port 587"}
 {"ipv4":"194.187.176.112","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"194.187.176.63","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"194.187.179.203","hostname":"","ipv6":"","country":"","reason":"Port 143"}
@@ -176,6 +176,7 @@
 {"ipv4":"45.140.19.101","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"45.156.131.12","hostname":"","ipv6":"","country":"","reason":"Port80"}
 {"ipv4":"45.187.113.4","hostname":"","ipv6":"","country":"","reason":""}
+{"ipv4":"45.227.253.13","hostname":"","ipv6":"","country":"","reason":"Port 110"}
 {"ipv4":"45.33.96.174","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"45.58.127.135","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"45.82.78.103","hostname":"","ipv6":"","country":"","reason":""}
@@ -226,8 +227,3 @@
 {"ipv4":"94.102.49.155","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"95.0.171.42","hostname":"","ipv6":"","country":"","reason":"Port 143"}
 {"ipv4":"98.192.114.251","hostname":"","ipv6":"","country":"","reason":""}
-{"ipv4":"194.165.16.167","hostname":"","ipv6":"","country":"","reason":"Port 587"}
-{"ipv4":"72.69.209.85","hostname":"pool-72-69-209-85.nycmny.fios.verizon.net","ipv6":"","country":"","reason":"Port 25"}
-{"ipv4":"125.212.174.189","hostname":"","ipv6":"","country":"","reason":"Port 25"}
-{"ipv4":"150.252.166.87","hostname":"","ipv6":"","country":"","reason":"25"}
-{"ipv4":"45.227.253.13","hostname":"","ipv6":"","country":"","reason":"Port 110"}
