@@ -227,3 +227,6 @@
 {"ipv4":"95.0.171.42","hostname":"","ipv6":"","country":"","reason":"Port 143"}
 {"ipv4":"98.192.114.251","hostname":"","ipv6":"","country":"","reason":""}
 {"ipv4":"194.165.16.167","hostname":"","ipv6":"","country":"","reason":"Port 587"}
+{"ipv4":"72.69.209.85","hostname":"pool-72-69-209-85.nycmny.fios.verizon.net","ipv6":"","country":"","reason":"Port 25"}
+{"ipv4":"125.212.174.189","hostname":"","ipv6":"","country":"","reason":"Port 25"}
+{"ipv4":"150.252.166.87","hostname":"","ipv6":"","country":"","reason":"25"}
