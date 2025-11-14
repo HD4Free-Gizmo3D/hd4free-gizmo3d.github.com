@@ -4,6 +4,7 @@
 {"cidr":"157.245.245.246/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
 {"cidr":"159.65.216.50/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
 {"cidr":"159.65.219.252/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
+{"cidr":"160.19.240.0/22","company":"Centro de Gerencia de Rede","asn":"","notes":"Brazil Bots"}
 {"cidr":"162.142.125.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"162.243.114.171/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
 {"cidr":"162.243.116.182/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
