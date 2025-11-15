@@ -23,6 +23,7 @@
 {"cidr":"192.241.128.0/17","company":"","asn":"","notes":"hosted by digitalocean (192.241.128.0 - 192.241.255.255) "}
 {"cidr":"192.241.179.235/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
 {"cidr":"193.163.125.0/24","company":"driftnet","asn":"","notes":"internet-measurement.com"}
+{"cidr":"194.187.176.0/22","company":"Alpha Strike Labs GmbH":"","asn":"","notes":"194.187.176.0 - 194.187.179.255"}
 {"cidr":"198.108.204.216/29","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"199.45.154.0/23","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"206.168.32.0/22","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
