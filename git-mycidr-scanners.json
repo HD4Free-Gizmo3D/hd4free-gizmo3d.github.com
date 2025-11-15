@@ -18,7 +18,7 @@
 {"cidr":"184.105.139.64/26","company":"The Shadowserver Foundation, Inc.","asn":"","notes":""}
 {"cidr":"184.105.247.192/26","company":"The Shadowserver Foundation, Inc.","asn":"","notes":""}
 {"cidr":"185.247.137.0/24","company":"driftnet","asn":"","notes":"internet-measurement.com"}
-{"cidr":"192.241.128.0/17","company":"","asn":"","notes":"hosted by digitalocean"}
+{"cidr":"192.241.128.0/17","company":"","asn":"","notes":"hosted by digitalocean (192.241.128.0 - 192.241.255.255) "}
 {"cidr":"192.241.179.235/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
 {"cidr":"193.163.125.0/24","company":"driftnet","asn":"","notes":"internet-measurement.com"}
 {"cidr":"198.108.204.216/29","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
