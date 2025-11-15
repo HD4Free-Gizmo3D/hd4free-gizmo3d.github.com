@@ -13,7 +13,9 @@
 {"cidr":"167.94.138.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"167.94.145.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"167.99.234.119/32","company":"driftnet","asn":"","notes":"hosted by digitalocean"}
-{"cidr":"173.254.206.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
+{"cidr":"173.254.206.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa - spammers"}
+{"cidr":"173.254.209.0/24","company":"quadranet.com","asn":"","notes":"hosted by hostpapa - spammers"}
+{"cidr":"173.254.210.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa - spammers"}
 {"cidr":"177.10.232.0/21","company":"RADAR WISP LTDA","asn":"","notes":"Brazil Bots"}
 {"cidr":"184.105.139.64/26","company":"The Shadowserver Foundation, Inc.","asn":"","notes":""}
 {"cidr":"184.105.247.192/26","company":"The Shadowserver Foundation, Inc.","asn":"","notes":""}
