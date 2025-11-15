@@ -23,6 +23,7 @@
 {"cidr":"198.108.204.216/29","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"199.45.154.0/23","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"206.168.32.0/22","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
+{"cidr":"45.173.24.0/22","company":"HEXA TELECOM LTDA","asn":"","notes":"Brazil Bots"}
 {"cidr":"45.55.151.3/32","company":"driftnet","asn":"as14061","notes":"hosted by digitalocean"}
 {"cidr":"45.55.153.86/32","company":"driftnet","asn":"as14061","notes":"hosted by digitalocean"}
 {"cidr":"45.55.158.168/32","company":"driftnet","asn":"as14061","notes":"hosted by digitalocean"}
