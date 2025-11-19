@@ -206,3 +206,5 @@
 {"ipv4":"94.255.255.26","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"95.0.171.42","hostname":"","ipv6":"","country":"","notes":"Port 143"}
 {"ipv4":"71.6.134.231","hostname":"","ipv6":"","country":"","notes":"Port 143"}
+{"ipv4":"4.235.98.249","hostname":"","ipv6":"","country":"Norway","notes":"Port 80"}
+{"ipv4":"74.7.230.7","hostname":"","ipv6":"","country":"United States","notes":"Port 443"}
