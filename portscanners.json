@@ -75,3 +75,4 @@
 {"ipv4":"3.132.23.201","hostname":"scan.cypex.ai","ipv6":"","country":"","notes":"Port 80"}
 {"ipv4":"109.123.117.233","hostname":"scanners.labs.rapid7.com","ipv6":"","company":"Rapid7","country":"","notes":"Port 993"}
 {"ipv4":"148.113.213.23","hostname":"o12.scanner.modat.io","ipv6":"","company":"modat.io","country":"","notes":" Port 25"}
+{"ipv4":"148.113.210.254","hostname":"o10.scanner.modat.io","ipv6":"","company":"modat.io","country":"","notes":" Port 80"}
