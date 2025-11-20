@@ -100,7 +100,6 @@
 {"ipv4":"61.97.17.208","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"64.23.143.211","hostname":"","ipv6":"","country":"","notes":"Port 465"}
 {"ipv4":"64.23.151.229","hostname":"","ipv6":"","country":"","notes":"Port 465"}
-{"ipv4":"66.183.168.20","hostname":"","ipv6":"","country":"","notes":"Port 143"}
 {"ipv4":"71.235.27.139","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"73.150.74.3","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"74.7.230.7","hostname":"","ipv6":"","country":"United States","notes":"Port 443"}
@@ -118,3 +117,4 @@
 {"ipv4":"94.183.185.90","hostname":"","ipv6":"","country":"","notes":"Port 80"}
 {"ipv4":"94.198.134.241","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"94.255.255.26","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"142.93.152.128","hostname":"","ipv6":"","country":"","notes":"Port 443"}
