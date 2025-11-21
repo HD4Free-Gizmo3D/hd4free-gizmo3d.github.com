@@ -118,3 +118,5 @@
 {"ipv4":"94.198.134.241","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"94.255.255.26","hostname":"","ipv6":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"142.93.152.128","hostname":"","ipv6":"","country":"","notes":"Port 443"}
+{"ipv4":"13.59.59.233","hostname":"ec2-13-59-59-233.us-east-2.compute.amazonaws.com","ipv6":"","country":"","notes":"Port 465"}
+{"ipv4":"66.183.168.20","hostname":"s66-183-168-20.bc.hsia.telus.net","ipv6":"","country":"","notes":"Port 143"}
