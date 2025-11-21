@@ -126,3 +126,4 @@
 {"ipv4":"34.227.19.103","hostname":"starttls-virginia.securing-email.com","ipv6":"","company":"amazonaws","country":"United States","notes":"Port 25 SASL"}
 {"ipv4":"3.96.67.177","hostname":"ec2-3-96-67-177.ca-central-1.compute.amazonaws.com","ipv6":"","company":"amazonaws","country":"United States","notes":"Port 443"}
 {"ipv4":"3.96.67.177","hostname":"ec2-3-96-67-177.ca-central-1.compute.amazonaws.com","ipv6":"","company":"amazonaws","country":"Canada","notes":"Port 443"}
+{"ipv4":"15.156.80.182","hostname":"ec2-15-156-80-182.ca-central-1.compute.amazonaws.com","ipv6":"","company":"amazonaws","country":"Canada","notes":"Port 443"}
