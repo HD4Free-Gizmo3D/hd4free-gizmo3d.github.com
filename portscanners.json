@@ -11,20 +11,21 @@
 {"ipv4":"138.68.82.23","hostname":"e154df25ea.scan.leakix.org","ipv6":"","company":"","country":"","notes":"Port 443"}
 {"ipv4":"139.59.95.45","hostname":"","ipv6":"","company":"DigitalOcean","country":"India","notes":""}
 {"ipv4":"142.93.143.8","hostname":"a4ac419f3c.scan.leakix.org","ipv6":"","company":"","country":"","notes":"Port 443"}
-{"ipv4":"142.93.152.128","hostname":"","ipv6":"","company":"","country":"","notes":""}
+{"ipv4":"142.93.152.128","hostname":"","ipv6":"","company":"DigitalOcean","country":"Canada","notes":""}
 {"ipv4":"142.93.221.185","hostname":"","ipv6":"","company":"DigitalOcean","country":"India","notes":""}
 {"ipv4":"143.110.210.72","hostname":"","ipv6":"","company":"DigitalOcean","country":"Canada","notes":""}
 {"ipv4":"147.182.180.108","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
 {"ipv4":"147.182.230.4","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
 {"ipv4":"148.113.190.57","hostname":"o07.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":""}
 {"ipv4":"148.113.193.57","hostname":"o19.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":""}
-{"ipv4":"148.113.206.49","hostname":"o06.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 25"}
+{"ipv4":"148.113.206.49","hostname":"o06.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 110"}
 {"ipv4":"148.113.210.254","hostname":"o10.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":" Port 80"}
 {"ipv4":"148.113.211.131","hostname":"o04.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 143"}
 {"ipv4":"148.113.212.55","hostname":"o11.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":" Port 587"}
 {"ipv4":"148.113.213.23","hostname":"o12.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":" Port 25"}
 {"ipv4":"148.113.213.24","hostname":"o13.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 25"}
 {"ipv4":"148.113.214.99","hostname":"o00.scanner.modat.io","ipv6":"","company":"","country":"","notes":""}
+{"ipv4":"148.113.221.28","hostname":"o03.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 143"}
 {"ipv4":"157.230.214.119","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
 {"ipv4":"157.230.233.118","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
 {"ipv4":"157.230.30.169","hostname":"","ipv6":"","company":"DigitalOcean","country":"Germany","notes":""}
