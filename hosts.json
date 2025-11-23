@@ -43,6 +43,7 @@
 {"ipv4":"175.206.1.60","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"178.232.137.127","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"178.89.170.72","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"18.119.13.69","hostname":"ec2-18-119-13-69.us-east-2.compute.amazonaws.com","ipv6":"","company":"","country":"United States","notes":"Port 465"}
 {"ipv4":"18.188.134.51","hostname":"ec2-18-188-134-51.us-east-2.compute.amazonaws.com","ipv6":"","company":"","country":"United States","notes":"All Ports"}
 {"ipv4":"182.66.214.70","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"182.76.134.58","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
