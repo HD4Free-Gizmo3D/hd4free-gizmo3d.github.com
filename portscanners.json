@@ -25,7 +25,8 @@
 {"ipv4":"148.113.212.55","hostname":"o11.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":" Port 587"}
 {"ipv4":"148.113.213.23","hostname":"o12.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":" Port 25"}
 {"ipv4":"148.113.213.24","hostname":"o13.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 25"}
-{"ipv4":"148.113.214.99","hostname":"o00.scanner.modat.io","ipv6":"","company":"","country":"","notes":""}
+{"ipv4":"148.113.214.99","hostname":"o00.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":""}
+{"ipv4":"148.113.221.195","hostname":"o01.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 587"}
 {"ipv4":"148.113.221.28","hostname":"o03.scanner.modat.io","ipv6":"","company":"modat.io","country":"Canada","notes":"Port 143"}
 {"ipv4":"157.230.214.119","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
 {"ipv4":"157.230.233.118","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":""}
