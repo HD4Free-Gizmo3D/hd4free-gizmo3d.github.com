@@ -37,6 +37,11 @@
 {"cidr":"45.55.185.224/32","company":"driftnet","asn":"as14061","notes":"hosted by digitalocean"}
 {"cidr":"45.55.186.92/32","company":"driftnet","asn":"as14061","notes":"hosted by digitalocean"}
 {"cidr":"46.101.0.0/18","company":"driftnet","asn":"","notes":"hosted by digitalocean 46.101.0.0 - 46.101.63.255"}
+{"cidr":"52.103.43.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
+{"cidr":"52.103.66.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
+{"cidr":"52.103.67.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
+{"cidr":"52.103.68.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
+{"cidr":"52.103.74.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
 {"cidr":"62.142.125.200/32","company":"censys","asn":"","notes":"Hosted by ELISA-MNT"}
 {"cidr":"64.227.0.0/17","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
 {"cidr":"64.227.108.146/32","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
