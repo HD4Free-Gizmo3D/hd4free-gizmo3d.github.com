@@ -42,6 +42,7 @@
 {"cidr":"52.103.67.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
 {"cidr":"52.103.68.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
 {"cidr":"52.103.74.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
+{"cidr":"52.103.75.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
 {"cidr":"62.142.125.200/32","company":"censys","asn":"","notes":"Hosted by ELISA-MNT"}
 {"cidr":"64.227.0.0/17","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
 {"cidr":"64.227.108.146/32","company":"driftnet","asn":"as14061.","notes":"hosted by digitalocean"}
