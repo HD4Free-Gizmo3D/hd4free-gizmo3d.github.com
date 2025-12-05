@@ -68,6 +68,7 @@
 {"cidr":"66.132.255.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"66.234.1.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
 {"cidr":"74.120.14.0/24","company":"censys","asn":"","notes":"AS398324 CENSYS-ARIN-01 AS398705 CENSYS-ARIN-02 AS398722 CENSYS-ARIN-03"}
+{"cidr":"85.120.224.0/21","company":"","asn":"","notes":"Romania Spammers"}
 {"cidr":"87.236.176.0/24","company":"driftnet","asn":"","notes":"internet-measurement.com"}
 {"cidr":"87.236.176.0/25","company":"driftnet","asn":"","notes":"internet-measurement.com"}
 {"cidr":"87.236.176.128/25","company":"driftnet","asn":"","notes":"internet-measurement.com"}
