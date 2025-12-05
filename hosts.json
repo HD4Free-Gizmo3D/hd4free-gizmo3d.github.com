@@ -147,3 +147,5 @@
 {"ipv4":"68.183.142.108","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":"Port 465"}
 {"ipv4":"159.203.173.14","hostname":"","ipv6":"","company":"DigitalOcean","country":"United States","notes":"Port 465"}
 {"ipv4":"172.93.163.144","hostname":"","ipv6":"","company":"","country":"United States","notes":"Port 25 SASL"}
+{"ipv4":"66.154.117.22","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"66.154.117.23","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
