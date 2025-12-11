@@ -174,3 +174,4 @@
 {"ipv4":"3.131.215.38","hostname":"ec2-3-131-215-38.us-east-2.compute.amazonaws.com","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"44.199.202.175","hostname":"ec2-44-199-202-175.compute-1.amazonaws.com","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"115.233.218.205","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"45.92.33.82","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
