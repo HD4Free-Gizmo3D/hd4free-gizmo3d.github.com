@@ -133,9 +133,10 @@
 {"ipv4":"40.93.196.65","hostname":"mail-southcentralusazon11013065.outbound.protection.outlook.com","ipv6":"","company":"Microsoft","country":"United States","notes":"Spammer"}
 {"ipv4":"43.224.248.102","hostname":"","ipv6":"","country":"China","notes":"Spammer"}
 {"ipv4":"43.226.46.116","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"ipv4":"45.13.37.206","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"ipv4":"45.13.37.207","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"ipv4":"45.13.37.227","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"ipv4":"45.13.37.204","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"45.13.37.206","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"45.13.37.207","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"45.13.37.227","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"45.232.32.182","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"46.20.47.145","hostname":"ctvny2yera.web-vision.io","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"47.150.235.102","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
