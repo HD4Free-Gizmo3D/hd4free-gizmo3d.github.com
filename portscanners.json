@@ -111,3 +111,4 @@
 {"ipv4":"159.65.206.235","hostname":"blue-8.scan.shadowforce.io","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"61.132.217.130","hostname":"","ipv6":"","company":"","country":"","notes":"All Ports"}
 {"ipv4":"88.202.190.149","hostname":"scanners.labs.rapid7.com","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"134.209.86.24","hostname":"portscanner-ams3-04.prod.cyberresilience.io","ipv6":"","company":"DigitalOcean","country":"Netherlands","notes":"Port 25"}
