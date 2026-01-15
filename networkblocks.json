@@ -1,46 +1,15 @@
-{"cidr":"173.254.206.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
-{"cidr":"173.254.209.0/24","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
-{"cidr":"173.254.210.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
-{"cidr":"193.36.60.0/24","company":"ServerGate","asn":"","notes":"Spammers"}
-{"cidr":"52.103.43.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
-{"cidr":"52.103.66.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
-{"cidr":"52.103.67.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
-{"cidr":"52.103.68.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
-{"cidr":"52.103.74.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
-{"cidr":"52.103.75.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
-{"cidr":"62.142.125.200/32","company":"censys","asn":"","notes":"Hosted by Microsoft"}
-{"cidr":"85.120.224.0/21","company":"","asn":"","notes":"Romania Spammers"}
+{"cidr":"103.126.93.0/24","company":"","country":"","reason":"Spammers"}
+{"cidr":"103.191.76.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"103.29.182.0/24","company":"Layer Webhost","country":"Netherlands","notes":"Spammer"}
+{"cidr":"104.193.149.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"104.223.22.0/24","company":"HostPapa","country":"United States","notes":"Spammer"}
 {"cidr":"104.223.52.0/24","company":"HostPapa","country":"Canada","notes":"Spammer"}
 {"cidr":"104.223.6.0/24","company":"HostPapa","country":"United States","notes":"Spammer"}
 {"cidr":"107.173.37.0/24","company":"HostPapa","country":"Unites States","notes":"Spammer"}
-{"cidr":"173.254.213.0/24","company":"HostPapa","country":"United States","notes":"Spammer"}
-{"cidr":"103.191.76.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"104.193.149.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"162.218.240.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"162.218.243.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"172.93.134.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"172.93.213.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"173.254.255.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"183.81.33.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"185.28.37.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"193.36.61.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"194.1.192.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"45.13.37.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"5.102.97.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"103.126.93.0/24","company":"","country":"","reason":"Spammers"}
-{"cidr":"115.236.121.0/24","company":"","country":"","reason":"Spammers"}
-{"cidr":"117.147.224.0/24","company":"","country":"","reason":"Spammers"}
-{"cidr":"156.224.83.0/24","company":"","country":"","reason":"Spammers"}
-{"cidr":"210.79.60.0/24","company":"","country":"","reason":"Spammers"}
-{"cidr":"45.195.17.0/24","company":"","country":"","reason":"Spammers"}
 {"cidr":"114.231.13.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.231.228.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.231.243.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.231.50.0/24","company":"","country":"","reason":"Port 25 SASL"}
-{"cidr":"114.232.166.0/24","company":"","country":"","reason":"Port 25 SASL"}
-{"cidr":"114.232.167.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.231.50.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.231.51.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.13.0/24","company":"","country":"","reason":"Port 25 SASL"}
@@ -48,10 +17,14 @@
 {"cidr":"114.232.161.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.163.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.165.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"114.232.166.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"114.232.167.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.18.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.203.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.232.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"114.232.62.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"115.236.121.0/24","company":"","country":"","reason":"Spammers"}
+{"cidr":"117.147.224.0/24","company":"","country":"","reason":"Spammers"}
 {"cidr":"117.86.100.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"117.86.102.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"117.86.103.0/24","company":"","country":"","reason":"Port 25 SASL"}
@@ -63,6 +36,16 @@
 {"cidr":"121.226.63.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"121.232.30.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"121.232.79.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"156.224.83.0/24","company":"","country":"","reason":"Spammers"}
+{"cidr":"162.218.240.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"162.218.243.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"172.93.134.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"172.93.213.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"173.254.206.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
+{"cidr":"173.254.209.0/24","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
+{"cidr":"173.254.210.0/23","company":"quadranet.com","asn":"","notes":"hosted by hostpapa"}
+{"cidr":"173.254.213.0/24","company":"HostPapa","country":"United States","notes":"Spammer"}
+{"cidr":"173.254.255.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"180.120.176.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"180.120.178.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"180.120.183.0/24","company":"","country":"","reason":"Port 25 SASL"}
@@ -92,6 +75,12 @@
 {"cidr":"180.121.251.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"180.121.253.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"180.125.151.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"183.81.33.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"185.28.37.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"193.36.60.0/24","company":"ServerGate","asn":"","notes":"Spammers"}
+{"cidr":"193.36.61.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"194.1.192.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"210.79.60.0/24","company":"","country":"","reason":"Spammers"}
 {"cidr":"218.91.166.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"221.227.132.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"221.227.141.0/24","company":"","country":"","reason":"Port 25 SASL"}
@@ -102,6 +91,8 @@
 {"cidr":"221.227.194.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"221.227.242.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"221.227.245.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"45.13.37.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"45.195.17.0/24","company":"","country":"","reason":"Spammers"}
 {"cidr":"49.67.116.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"49.67.117.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"49.67.118.0/24","company":"","country":"","reason":"Port 25 SASL"}
@@ -112,3 +103,12 @@
 {"cidr":"49.79.177.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"49.79.56.0/24","company":"","country":"","reason":"Port 25 SASL"}
 {"cidr":"49.79.59.0/24","company":"","country":"","reason":"Port 25 SASL"}
+{"cidr":"5.102.97.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"52.103.43.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
+{"cidr":"52.103.66.0/24","company":"outlook.com","asn":"","notes":"Japan hosted by Microsoft"}
+{"cidr":"52.103.67.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
+{"cidr":"52.103.68.0/24","company":"outlook.com","asn":"","notes":"India hosted by Microsoft"}
+{"cidr":"52.103.74.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
+{"cidr":"52.103.75.0/24","company":"outlook.com","asn":"","notes":"South Korea hosted by Microsoft"}
+{"cidr":"62.142.125.200/32","company":"censys","asn":"","notes":"Hosted by Microsoft"}
+{"cidr":"85.120.224.0/21","company":"","asn":"","notes":"Romania Spammers"}
