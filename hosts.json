@@ -307,3 +307,5 @@
 {"ipv4":"178.232.147.85","hostname":"cm-178.232.147.85.get.no","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"143.198.24.102","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"167.99.136.114","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"114.232.139.95","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"18.219.193.156","hostname":"ec2-18-219-193-156.us-east-2.compute.amazonaws.com","ipv6":"","company":"","country":"","notes":"Port 465"}
