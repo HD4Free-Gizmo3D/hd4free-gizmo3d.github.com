@@ -119,3 +119,4 @@
 {"ipv4":"146.185.25.184","hostname":"scanners.labs.rapid7.com","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"38.110.46.247","hostname":"researchscan247.cc.gatech.edu","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"38.110.46.253","hostname":"scanner3.cc.gatech.edu","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"85.217.149.3","hostname":"o004.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 465"}
