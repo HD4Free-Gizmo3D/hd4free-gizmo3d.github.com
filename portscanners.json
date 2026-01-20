@@ -120,3 +120,7 @@
 {"ipv4":"38.110.46.247","hostname":"researchscan247.cc.gatech.edu","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"38.110.46.253","hostname":"scanner3.cc.gatech.edu","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"85.217.149.3","hostname":"o004.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"85.217.149.22","hostname":"o023.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"85.217.149.8","hostname":"o009.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 465"}
+{"ipv4":"85.217.149.25","hostname":"o026.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 995"}
+{"ipv4":"85.217.149.12","hostname":"o013.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 995"}
