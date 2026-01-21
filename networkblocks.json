@@ -150,3 +150,5 @@
 {"cidr":"98.159.110.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"cidr":"104.206.57.190.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"cidr":"141.11.209.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"cidr":"104.206.57.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"50.3.176.0/24","company":"","country":"","notes":"Spammer"}
