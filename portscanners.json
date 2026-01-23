@@ -124,3 +124,7 @@
 {"ipv4":"85.217.149.8","hostname":"o009.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"85.217.149.25","hostname":"o026.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 995"}
 {"ipv4":"85.217.149.12","hostname":"o013.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 995"}
+{"ipv4":"50.116.48.28","hostname":"prod-barium-us-east-3.li.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"161.35.100.188","hostname":"prod-beryllium-nyc1-34.do.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"167.99.97.38","hostname":"prod-boron-sfo2-111.do.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"206.81.4.155","hostname":"prod-barium-nyc1-20.do.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
