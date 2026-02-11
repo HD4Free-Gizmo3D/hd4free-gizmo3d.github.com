@@ -133,3 +133,5 @@
 {"ipv4":"85.217.149.28","hostname":"o029.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 110"}
 {"ipv4":"85.217.149.30","hostname":"o031.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 110"}
 {"ipv4":"143.198.34.76","hostname":"","ipv6":"","company":"DigitalOcean","country":"Canada","notes":"Port 993"}
+{"ipv4":"165.227.36.72","hostname":"","ipv6":"","company":"DigitalOcean","country":"Canada","notes":"Port 993"}
+{"ipv4":"159.203.63.242","hostname":"","ipv6":"","company":"DigitalOcean","country":"Canada","notes":"Port 993"}
