@@ -417,3 +417,4 @@
 {"ipv4":"138.197.161.68","hostname":"","ipv6":"","company":"","country":"","notes":"Port 993"}
 {"ipv4":"184.151.85.100","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"185.236.78.18","hostname":"185.236.78.18.deltahost-ptr","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"70.73.25.119","hostname":"S0106001a797c182d.cg.shawcable.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
