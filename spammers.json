@@ -778,8 +778,6 @@
 {"ipv4":"185.63.220.165","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"194.99.104.200","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"104.140.151.123","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"ipv4":"35.236.87.225mta400.clwxty.com","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"ipv4":"35.230.18.202mta415.clwxty.com","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"104.140.151.121","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"104.140.151.119","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"104.140.151.117","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
@@ -787,3 +785,6 @@
 {"ipv4":"85.121.49.2","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"85.121.49.3","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"ipv4":"34.186.145.129","hostname":"mta149.nmjhuj.com","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"ipv4":"34.182.62.19","hostname":"mta177.nmjhuj.com","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"ipv4":"35.236.87.225","hostname":"mta400.clwxty.com","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"ipv4":"35.230.18.202","hostname":"mta415.clwxty.com","ipv6":"","company":"","country":"","notes":"Spammer"}
