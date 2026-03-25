@@ -660,4 +660,5 @@
 {"ipv4":"112.49.217.205","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"125.19.156.30","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"196.190.180.19","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
-{"ipv4":"213.124.221.2","hostname":"ip-213-124-221-2.ip.prioritytelecom.ne","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"213.124.221.2","hostname":"ip-213-124-221-2.ip.prioritytelecom.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"104.155.27.128","hostname":"128.27.155.104.bc.googleusercontent.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
