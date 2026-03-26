@@ -170,5 +170,5 @@
 {"cidr":"98.159.108.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"cidr":"98.159.109.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
 {"cidr":"98.159.110.0/24","hostname":"","ipv6":"","company":"","country":"","notes":"Spammer"}
-{"cidr":"122.160.0.0/14","hostname":"","ipv6":"","company":"BHARTI Airtel Ltd.","country":"India","notes":"122.160.0.0 - 122.163.255.255
-{"cidr":"122.184.0.0/14","hostname":"","ipv6":"","company":"BHARTI Airtel Ltd.","country":"India","notes":"122.184.0.0 - 122.187.255.255
+{"cidr":"122.160.0.0/14","hostname":"","ipv6":"","company":"BHARTI Airtel Ltd.","country":"India","notes":"122.160.0.0 - 122.163.255.255"}
+{"cidr":"122.184.0.0/14","hostname":"","ipv6":"","company":"BHARTI Airtel Ltd.","country":"India","notes":"122.184.0.0 - 122.187.255.255"}
