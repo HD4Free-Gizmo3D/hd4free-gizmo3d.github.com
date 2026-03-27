@@ -759,3 +759,6 @@
 {"ipv4":"98.122.215.23","hostname":"syn-098-122-215-023.res.spectrum.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"98.142.247.55","hostname":"","ipv6":"","company":"","country":"United States","notes":"Port 25"}
 {"ipv4":"98.142.247.56","hostname":"","ipv6":"","company":"","country":"United States","notes":"Port 25"}
+{"ipv4":"130.185.96.113","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"182.95.174.18","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"14.54.22.11","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
