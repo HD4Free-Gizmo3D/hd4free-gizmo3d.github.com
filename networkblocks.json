@@ -177,3 +177,4 @@
 {"cidr":"221.120.32.0/19","company":"Chunghwa Telecom Co.,Ltd.","country":"Taiwan","notes":"221.120.32.0 - 221.120.63.255"}
 {"cidr":"221.120.64.0/20","company":"Chunghwa Telecom Co.,Ltd.","country":"Taiwan","notes":"221.120.64.0 - 221.120.79.255"}
 {"cidr":"121.131.220.0/24","company":"Korea Telecom","country":"Korea","reason":"Port 25 SASL121.128.0.0/11 121.128.0.0 - 121.159.255.255"}
+{"cidr":"104.205.160.0/24","company":"horizonconsultingheritage.com","country":"United States","notes":"Port 25 SASL"}
