@@ -180,3 +180,4 @@
 {"cidr":"104.205.160.0/24","company":"horizonconsultingheritage.com","country":"United States","notes":"Port 25 SASL"}
 {"cidr":"182.95.0.0/17","company":"Bharti Airtel Limited","country":"India","notes":"Port 25 SASL 182.95.0.0 - 182.95.127.255"}
 {"cidr":"182.95.128.0/17","company":"Bharti Airtel Limited","country":"India","notes":"Port 25 SASL 182.95.128.0 - 182.95.255.255"}
+{"cidr":"182.78.128.0/18","company":"Bharti Airtel Limited","country":"India","notes":"Port 25 SASL 182.78.128.0 - 182.78.255.0"}
