@@ -183,3 +183,4 @@
 {"cidr":"182.78.128.0/18","company":"Bharti Airtel Limited","country":"India","notes":"Port 25 SASL 182.78.128.0 - 182.78.255.0"}
 {"cidr":"104.206.160.0/24","company":"Eonix Corporation","country":"United States","notes":"Spammer"}
 {"cidr":"14.51.223.0/24","company":"Korea Telecom","country":"Korea","notes":"Port 25 SASL"}
+{"cidr":"149.54.62.0/24","company":"Ministry of Communications","country":"Afghanistan","notes":"Port 25 SASL"}
