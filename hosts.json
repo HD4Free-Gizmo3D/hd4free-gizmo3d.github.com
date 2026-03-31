@@ -1098,3 +1098,6 @@
 {"ipv4":"98.122.215.23","hostname":"syn-098-122-215-023.res.spectrum.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"98.142.247.55","hostname":"","ipv6":"","company":"","country":"United States","notes":"Port 25 SASL"}
 {"ipv4":"98.142.247.56","hostname":"","ipv6":"","company":"","country":"United States","notes":"Port 25 SASL"}
+{"ipv4":"112.28.153.193","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"112.27.129.78","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"210.0.90.82","hostname":"210.0.90.82.static.nexnet.net.au","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
