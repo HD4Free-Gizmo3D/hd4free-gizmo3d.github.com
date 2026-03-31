@@ -379,7 +379,6 @@
 {"ipv4":"148.170.156.248","hostname":"host-148-170-156-248.public.eastlink.ca","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"149.100.11.243","hostname":"","ipv6":"","company":"","country":"","notes":"Port 80"}
 {"ipv4":"149.28.49.123","hostname":"149.28.49.123.vultrusercontent.com","ipv6":"","company":"","country":"","notes":"Port 465"}
-{"ipv4":"149.54.15.","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"149.54.15.126","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"149.54.15.162","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"149.54.15.6","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
