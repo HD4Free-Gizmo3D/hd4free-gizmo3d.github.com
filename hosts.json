@@ -1289,3 +1289,7 @@
 {"ipv4":"76.132.238.43","hostname":"c-76-132-238-43.hsd1.ca.comcast.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"35.130.111.98","hostname":"syn-035-130-111-098.biz.spectrum.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"111.23.42.49","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"220.246.36.42","hostname":"042.36.246.220.static.netvigator.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"203.198.173.137","hostname":"137.173.198.203.static.netvigator.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"41.59.228.160","hostname":"160.228-59-41.static-zone.ttcldata.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"89.67.37.8","hostname":"89-67-37-8.dynamic.play.pl","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
