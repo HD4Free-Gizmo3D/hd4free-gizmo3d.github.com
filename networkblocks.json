@@ -185,3 +185,4 @@
 {"cidr":"14.51.223.0/24","company":"Korea Telecom","country":"Korea","notes":"Port 25 SASL"}
 {"cidr":"149.54.62.0/24","company":"Ministry of Communications","country":"Afghanistan","notes":"Port 25 SASL"}
 {"cidr":"121.73.163.0/24","company":"TelstraClear","country":"New Zealand","notes":"Port 25 SASL 121.73.160.0/19 121.73.160.0 - 121.73.191.255"}
+{"cidr":"27.24.141.0/24","company":"China Telecom","country":"China","notes":"27.16.0.0/12 27.16.0.0 - 27.31.255.255"}
