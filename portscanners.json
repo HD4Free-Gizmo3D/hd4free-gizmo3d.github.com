@@ -150,3 +150,5 @@
 {"ipv4":"89.248.165.203","hostname":"recyber.net","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"167.99.149.55","hostname":"portscanner-nyc1-05.prod.cyberresilience.io","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"85.217.149.61","hostname":"o061.scanner.modat.io","ipv6":"","company":"","country":"","notes":"Port 587"}
+{"ipv4":"85.217.149.38","hostname":"o038.scanner.modat.io","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 993"}
+{"ipv4":"85.217.149.34","hostname":"o035.scanner.modat.io","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 995"}
