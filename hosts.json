@@ -1391,3 +1391,4 @@
 {"ipv4":"159.89.112.217","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 110 143 993"}
 {"ipv4":"146.190.253.77","hostname":"","ipv6":"","company":"","country":"","notes":"Port 993"}
 {"ipv4":"80.13.0.44","hostname":"laubervilliers-656-1-1-44.w80-13.abo.wanadoo.fr","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"192.109.139.5","hostname":"damagingnut.ptr.network","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
