@@ -156,3 +156,5 @@
 {"ipv4":"3.143.162.210","hostname":"scan.visionheight.com","ipv6":"","company":"","country":"United States","notes":"Port 25"}
 {"ipv4":"18.116.101.220","hostname":"scan.visionheight.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"3.129.187.38","hostname":"scan.visionheight.com","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 25"}
+{"ipv4":"86.54.31.38","hostname":"blue2.census.shodan.io","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 143"}
+{"ipv4":"88.202.190.153","hostname":"scanners.labs.rapid7.com","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 25"}
