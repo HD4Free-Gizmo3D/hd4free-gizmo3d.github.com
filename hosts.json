@@ -1415,3 +1415,4 @@
 {"ipv4":"71.12.42.216","hostname":"syn-071-012-042-216.res.spectrum.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"72.234.16.75","hostname":"dhcp-72-234-16-75.hawaiiantel.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"118.193.35.202","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"68.183.195.200","hostname":"","ipv6":"","company":"","country":"","notes":"Port 993"}
