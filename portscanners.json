@@ -173,4 +173,4 @@
 {"ipv4":"3.130.168.2","hostname":"scan.visionheight.com","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 25"}
 {"ipv4":"3.142.170.60","hostname":"scan.visionheight.com","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 25"}
 {"ipv4":"18.119.209.50","hostname":"scan.visionheight.com","ipv6":"","company":"DigitalOcean","country":"","notes":"Port 25"}
-{"ipv4":"86.54.31.34","hostname":"wine.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 143"}
+{"ipv4":"86.54.31.34","hostname":"wine.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 110"}
