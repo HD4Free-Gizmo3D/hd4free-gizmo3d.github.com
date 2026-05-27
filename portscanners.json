@@ -176,3 +176,5 @@
 {"ipv4":"86.54.31.34","hostname":"wine.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 110"}
 {"ipv4":"89.248.163.168","hostname":"recyber.net","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"128.173.237.165","hostname":"email-probes.cs.vt.edu","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"74.82.47.3","hostname":"scan-10.shadowserver.org","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"74.82.47.15","hostname":"scan-10c.shadowserver.org","ipv6":"","company":"","country":"","notes":"Port 25"}
