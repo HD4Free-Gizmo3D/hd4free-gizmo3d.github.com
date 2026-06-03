@@ -1454,3 +1454,4 @@
 {"ipv4":"20.63.8.37","hostname":"","ipv6":"","company":"","country":"","notes":"Port 80 443"}
 {"ipv4":"142.93.158.36","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465"}
 {"ipv4":"142.93.105.218","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"205.250.25.62","hostname":"h205-250-25-62.ptr.cidc.telus.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
