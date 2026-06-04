@@ -1457,3 +1457,4 @@
 {"ipv4":"205.250.25.62","hostname":"h205-250-25-62.ptr.cidc.telus.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"146.190.249.72","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 993"}
 {"ipv4":"159.203.28.41","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 993"}
+{"ipv4":"108.190.201.155","hostname":"syn-108-190-201-155.biz.spectrum.com","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
