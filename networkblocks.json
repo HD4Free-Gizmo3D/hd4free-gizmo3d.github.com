@@ -201,6 +201,6 @@
 {"cidr":"173.44.180.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"190.3.179.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"104.206.238.0/24","company":"","country":"","notes":"Spammer"}
-{"cidr":"147.182.128.0/17","company":"DigitalOcean","country":"","reason":"147.182.128.0 - 147.182.255.255"}
-{"cidr":"24.144.64.0/18","company":"DigitalOcean","country":"","reason":"24.144.64.0 - 24.144.127.255"}
-{"cidr":"146.190.0.0/16","company":"DigitalOcean","country":"","reason":"146.190.0.0 - 146.190.255.255"}
+{"cidr":"147.182.128.0/17","company":"DigitalOcean","country":"","reason":"Spammer 147.182.128.0 - 147.182.255.255"}
+{"cidr":"24.144.64.0/18","company":"DigitalOcean","country":"","reason":"Spammer 24.144.64.0 - 24.144.127.255"}
+{"cidr":"146.190.0.0/16","company":"DigitalOcean","country":"","reason":"Spammer 146.190.0.0 - 146.190.255.255"}
