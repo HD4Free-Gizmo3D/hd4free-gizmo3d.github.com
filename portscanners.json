@@ -195,3 +195,4 @@
 {"ipv4":"89.248.167.131","hostname":"mason.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"80.82.77.33","hostname":"sky.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"18.190.15.50","hostname":"scan.visionheight.com","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"74.82.47.41","hostname":"scan-12h.shadowserver.io","ipv6":"","company":"","country":"","notes":"Port 25"}
