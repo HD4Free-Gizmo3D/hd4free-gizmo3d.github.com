@@ -1486,3 +1486,4 @@
 {"ipv4":"167.99.187.76","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 110 993"}
 {"ipv4":"195.191.219.70","hostname":"no-rdns-yet.veloxserv.net","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"101.2.169.81","hostname":"mp01.atguard.com.au","ipv6":"","company":"","country":"","notes":"Spammer"}
+{"ipv4":"164.92.143.142","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
