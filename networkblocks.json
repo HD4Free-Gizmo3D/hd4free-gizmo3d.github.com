@@ -205,3 +205,4 @@
 {"cidr":"24.144.64.0/18","company":"DigitalOcean","country":"","reason":"Spammer 24.144.64.0 - 24.144.127.255"}
 {"cidr":"146.190.0.0/16","company":"DigitalOcean","country":"","reason":"Spammer 146.190.0.0 - 146.190.255.255"}
 {"cidr":"107.174.183.0/24","company":"Color Crossing","country":"","notes":"Spammer"}
+{"cidr":"144.225.93.0/24","company":"PrivateByte","country":"United Kingdon","notes":"Spammer"}
