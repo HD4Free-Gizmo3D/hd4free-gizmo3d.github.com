@@ -208,3 +208,4 @@
 {"ipv4":"143.198.68.20","hostname":"deer.census.shodan.io","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"66.228.41.127","hostname":"scanner3.labs.rapid7.com","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"159.223.0.20","hostname":"red-4.scan.shadowforce.io","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"71.6.199.65","hostname":"pdcscan1.scanning.cybcube.com","ipv6":"","company":"","country":"","notes":"Port 25"}
