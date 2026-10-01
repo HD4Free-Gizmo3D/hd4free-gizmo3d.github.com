@@ -1545,6 +1545,7 @@
 {"ipv4":"111.221.2.78","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"104.28.158.191","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"103.194.90.20","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"176.99.110.229","hostname":"pool.giga.net.ru","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"68.225.62.240","hostname":"wsip-68-225-62-240.pn.at.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"70.164.36.82","hostname":"wsip-70-164-36-82.no.no.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"70.183.226.83","hostname":"wsip-70-183-226-83.pn.at.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
@@ -1559,6 +1560,6 @@
 {"ipv4":"70.167.234.118","hostname":"wsip-70-167-234-118.pn.at.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"70.167.235.103","hostname":"wsip-70-167-235-103.pn.at.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"24.234.239.43","hostname":"wsip-24-234-239-43.lv.lv.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
-{"ipv4":"176.99.110.229","hostname":"pool.giga.net.ru","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"72.205.174.54","hostname":"wsip-72-205-174-54.no.no.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"184.186.73.69","hostname":"wsip-184-186-73-69.lf.br.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
+{"ipv4":"70.167.234.157","hostname":"wsip-70-167-234-157.pn.at.cox.net","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
