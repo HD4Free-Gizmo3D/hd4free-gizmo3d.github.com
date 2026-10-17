@@ -216,3 +216,5 @@
 {"cidr":"104.168.145.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"141.195.119.0/24","company":"","country":"","notes":"Spammer"}
 {"cidr":"15.235.89.0/24","company":"","country":"","notes":"Spammer"}
+{"cidr":"70.167.235.0/24","company":"","country":"","notes":"Port 25 SASL"}
+{"cidr":"70.183.226.0/24","company":"","country":"","notes":"Port 25 SASL"}
