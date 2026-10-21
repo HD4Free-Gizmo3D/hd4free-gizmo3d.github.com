@@ -1629,3 +1629,5 @@
 {"ipv4":"104.28.157.108","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"104.28.187.84","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"139.87.113.176","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"165.22.238.55","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 143 993"}
+{"ipv4":"142.93.145.123","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 143"}
