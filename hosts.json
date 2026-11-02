@@ -1653,3 +1653,4 @@
 {"ipv4":"104.28.167.109","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"128.185.64.249","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25 SASL"}
 {"ipv4":"104.28.152.171","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"142.93.151.43","hostname":"","ipv6":"","company":"","country":"","notes":"Port 465 587 995"}
