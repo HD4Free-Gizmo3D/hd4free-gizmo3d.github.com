@@ -233,3 +233,5 @@
 {"ipv4":"170.187.144.207","hostname":"us-southeast-48.beryllium.li.prod.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"138.68.249.209","hostname":"sfo2-387.boron.do.prod.binaryedge.ninja","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"4.148.241.4","hostname":"azpdwgng8egk.stretchoid.com","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"103.39.108.200","hostname":"","ipv6":"","company":"","country":"","notes":"Prompt Injection"}
+{"ipv4":"148.230.202.56","hostname":"","ipv6":"","company":"","country":"","notes":"Prompt Injection"}
