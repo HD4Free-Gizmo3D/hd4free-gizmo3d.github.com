@@ -1718,3 +1718,5 @@
 {"ipv4":"192.64.86.60","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
 {"ipv4":"15.157.135.226","hostname":"","ipv6":"","company":"","country":"","notes":"Port 443"}
 {"ipv4":"51.79.78.22","hostname":"","ipv6":"","company":"","country":"","notes":"Port 80 443"}
+{"ipv4":"169.254.7.168","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
+{"ipv4":"152.32.235.69","hostname":"","ipv6":"","company":"","country":"","notes":"Port 25"}
